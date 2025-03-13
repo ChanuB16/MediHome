@@ -6,7 +6,7 @@ import mongoose from "mongoose";
 
 import cors from "cors";
 
-const URI = "mongodb+srv://heylibandara:Zm4MbI5ufPUt92ah@cluster0.snxkp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const URI = "mongodb+srv://it23266582:DSSYuVjt3VRAC43s@medihome.crezc.mongodb.net/?retryWrites=true&w=majority&appName=MediHome";
 const app = express();
 
 // Middleware
